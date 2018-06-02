@@ -8,6 +8,8 @@
  
 Раздел training содержит код для обучения агента и версию этого кода для обучения с использованием google colaboratory, так же в этом разделе должна находиться обучающая выборка: [train_data.renju].
 
+В разделе contest лежит агент представленый для соревнования с прочими агентами с этого проекта.
+
 Играть с агентом можно запустив скрипт: game.py
 
 [train_data.renju]:https://drive.google.com/open?id=12KesiHMGrGAL-obONvtLAsdL8AOeg1gT
