@@ -8,10 +8,6 @@
   
 Так же для обучения в разделе training должна находиться тренировочная выборка: [train_data.renju].
 
-А для игры с агентом понадобится модель: [allgraph.index], [allgraph.data].
-
 Играть с агентом можно запустив скрипт: game.py
 
 [train_data.renju]:https://drive.google.com/open?id=12KesiHMGrGAL-obONvtLAsdL8AOeg1gT
-[allgraph.index]:https://drive.google.com/open?id=1HRAHQb7ZjROES5voKNpArGvlPs9PRh_w
-[allgraph.data]:https://drive.google.com/open?id=13pjZasDphhSJ85qejeP_k2z8eIjPDTxH
